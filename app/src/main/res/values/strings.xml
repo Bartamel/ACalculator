@@ -3,7 +3,8 @@
     <string name="titulo">CALCULADORA</string>
     <string name="numero_uno">Número Uno</string>
     <string name="numero_dos">Número Dos</string>
-    <string name="calcular">CALCULAR</string>
+    <string name="sumar">Sumar</string>
     <string name="mensaje_error_numero_uno">Digite el número uno</string>
     <string name="mensaje_error_numero_dos">Digite el número dos</string>
+    <string name="limpiar">LIMPIAR</string>
 </resources>

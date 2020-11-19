@@ -7,4 +7,6 @@
     <string name="calcular">CALCULATE</string>
     <string name="mensaje_error_numero_uno">Type the number one</string>
     <string name="mensaje_error_numero_dos">Type the number two</string>
+    <string name="sumar">Add</string>
+    <string name="limpiar">CLEAN</string>
 </resources>

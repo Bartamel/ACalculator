@@ -40,7 +40,12 @@ public class MainActivity extends AppCompatActivity {
             num2.requestFocus();
             return false;
         }
-
         return true;
+    }
+    public void limpiar(View v){
+        num1.setText("");
+        num2.setText("");
+        resultado.setText("");
+        num1.requestFocus();
     }
 }

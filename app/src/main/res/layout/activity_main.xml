@@ -36,10 +36,11 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="calcular"
         android:text="@string/calcular" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/lblResultado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="24sp"

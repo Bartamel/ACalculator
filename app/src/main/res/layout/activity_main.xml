@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/numero_uno"
-        android:inputType="number" />
+        android:inputType="numberSigned|number|numberDecimal" />
 
     <EditText
         android:id="@+id/TxtNumeroDos"
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/numero_dos"
-        android:inputType="number" />
+        android:inputType="numberSigned|number|numberDecimal" />
 
     <Button
         android:id="@+id/button"

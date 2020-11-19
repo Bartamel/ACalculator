@@ -32,6 +32,13 @@
         android:hint="@string/numero_dos"
         android:inputType="numberSigned|number|numberDecimal" />
 
+    <Spinner
+        android:id="@+id/cmbOperaciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/operaciones"
+        android:spinnerMode="dropdown" />
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -43,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="calcular"
-            android:text="@string/sumar" />
+            android:text="@string/calcular" />
 
         <Button
             android:id="@+id/btnLimpiar"

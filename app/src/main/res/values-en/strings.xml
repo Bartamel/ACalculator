@@ -9,4 +9,8 @@
     <string name="mensaje_error_numero_dos">Type the number two</string>
     <string name="sumar">Add</string>
     <string name="limpiar">CLEAN</string>
+    <string name="restar">Subtract</string>
+    <string name="multiplicacion">Multiply</string>
+    <string name="division">Divide</string>
+    <string name="error_division">Can\'t divide by zero</string>
 </resources>

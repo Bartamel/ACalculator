@@ -3,8 +3,19 @@
     <string name="titulo">CALCULADORA</string>
     <string name="numero_uno">Número Uno</string>
     <string name="numero_dos">Número Dos</string>
-    <string name="sumar">Sumar</string>
+    <string name="calcular">CALCULAR</string>
     <string name="mensaje_error_numero_uno">Digite el número uno</string>
     <string name="mensaje_error_numero_dos">Digite el número dos</string>
     <string name="limpiar">LIMPIAR</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicacion">Multiplicar</string>
+    <string name="division">Dividir</string>
+    <string name="error_division">No puede dividir por cero</string>
+    <string-array name="operaciones">
+        <item>@string/sumar</item>
+        <item>@string/restar</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
 </resources>
